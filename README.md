@@ -130,6 +130,6 @@ and produce summary reports for business review.
 | screenshots/raw_data_preview.png | Raw dataset before cleaning |
 | screenshots/cleaned_data_preview.png | Cleaned dataset with calculated columns |
 | screenshots/pivot_summary_1.png | Sales and profit by region |
-| screenshots/pivot_summary_2.png | Sales and profit by category |
+| screenshots/pivot_summary_2.png | refunded_cancelled_failed_by_region |
 
 ---
