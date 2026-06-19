@@ -133,5 +133,3 @@ and produce summary reports for business review.
 | screenshots/pivot_summary_2.png | Sales and profit by category |
 
 ---
-
-## Repository Structure
